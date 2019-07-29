@@ -28,3 +28,31 @@ git reset --hard 2f7e660
 
 git reflog
 
+git checkout --file 把工作区的文件状态回退到暂存区的状态一致
+
+git resetHEAD filename 回退暂存区的文件状态
+
+git rm fileName 
+
+ssh-keygen -t rsa -C "276876847@qq.com"
+
+git remote add github git@github.com:276876847/git.git
+
+git remote -v
+
+git remote rm github
+
+git push -u origin master
+
+git push origin master
+
+
+
+
+
+
+
+
+
+
+
