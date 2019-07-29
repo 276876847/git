@@ -14,5 +14,17 @@ git add git.md
 
 git commit -m "commit git.md"
 
+git diff git.md
+
 git status
+
+git log
+
+git log --pretty=oneline
+
+git reset --hard HEAD^
+
+git reset --hard 2f7e660
+
+git reflog
 
