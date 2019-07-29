@@ -10,3 +10,9 @@ git config --global user.email "276876847@qq.com"
 
 git init
 
+git add git.md
+
+git commit -m "commit git.md"
+
+git status
+
